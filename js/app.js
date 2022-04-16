@@ -35,5 +35,4 @@ document.addEventListener("click", (e) => {
             righti++
         }
     }
-
 })
